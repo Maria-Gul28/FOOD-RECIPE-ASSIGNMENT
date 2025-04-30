@@ -2,6 +2,7 @@
   "name": "recipeapplication",
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
+  "homepage": "https://Maria-Gul28.github.io/FOOD-RECIPE-ASSIGNMENT",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
